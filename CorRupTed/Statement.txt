@@ -1,0 +1,3 @@
+Why again a corrupted file.
+
+The flag always starts with ```SPYB!TS{*```.

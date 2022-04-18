@@ -1,0 +1,27 @@
+Similar to PNG image GIF also have tags and header.
+They can be viewed using hex editor such as 
+1.Bless Hex editor for Linux 
+
+or 
+
+2. Free Hex Editor Neo(https://www.hhdsoftware.com/free-hex-editor) for windows.
+
+
+
+Note : If you are using Free Hex Editor Neo then before you start editing 
+click on "edit" in menu bar and then click on "insert mode". Now go for editing the Hex
+
+
+More information about GIF hex format can be found here https://www.file-recovery.com/gif-signature-format.htm
+
+GIF files start with a fixed-length header (GIF87a or GIF89a) where 7a and 9a specify the version
+
+When you will open GIF in Hex editor you will observe that there is some mismatch in header
+
+"G9a" is written in place of "GIF89a"(I am also attaching one image).
+
+Just make this correction and GIF will work fine and can be opened now.
+
+Flag can be seen in the GIF preview.
+
+FLAG : SPYB!TS{We_can_Corrupt_GIF}
