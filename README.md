@@ -11,3 +11,4 @@ Editorial added till now:
 * Sanity_Check
 * Simpsons_Dustbin
 * Sounds_Familiar
+* CorRupTed
