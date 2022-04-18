@@ -1,0 +1,4 @@
+Need to avoid Fake flags
+[inside](https://github.com/spy-playground/inside).
+
+The flag always starts with ```SPYB!TS{*```.

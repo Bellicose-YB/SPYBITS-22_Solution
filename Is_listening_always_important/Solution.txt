@@ -1,0 +1,6 @@
+Generally in CTF for analysing audio files Sonic Visualizer is used.
+Step 1 : Open the .wav file in Sonic Visualizer and 
+Step 2 : Click on pane in top toolbar and then add spectrogram in "All mixed channel mode"
+Step 3 : Flag can be clearly seen in spectrogram view.
+
+FLAG : SPYB!TS{SONIC_IS_FUN}

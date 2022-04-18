@@ -1,0 +1,4 @@
+This is simple BACONIAN CIPHER.
+There are many online decrypter.
+
+FLAG : SPYB!TS{BACON_THE_AB_CIPHER}

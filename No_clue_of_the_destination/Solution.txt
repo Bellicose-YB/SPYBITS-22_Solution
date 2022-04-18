@@ -1,0 +1,6 @@
+After extracting the folder
+You just need to follow the folder that has the maximum size.
+And you will reach to a folder that has a video file
+
+
+FLAG : SPYB!TS{D3M0N_SL4Y3R_1S_4W3S0M3}

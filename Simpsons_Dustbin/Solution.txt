@@ -1,0 +1,6 @@
+By using binwalk command : "binwalk doh.png", u can see a zip file is hidden in png image
+U can extract it using "binwalk --dd='.*' doh.png"
+Now a extracted folder would be visible that contain a txt file while base64 encoded text
+convert it using online tools and u would get the flag.
+
+FLAG : SPYB!TS{an_annoyed_grunt}

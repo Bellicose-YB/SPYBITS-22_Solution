@@ -1,0 +1,7 @@
+In this question, 2 power 6 means 64 which matches base64 and a git repository 
+is provided and in that git repo we have to check commits in all branches and 
+in that base64 provided you have to decode all
+You Need to check old commits and try different flags one will match
+
+
+FLAG : SPYB!TS{C0mM1T5_Le4v3_Tr4C3s}

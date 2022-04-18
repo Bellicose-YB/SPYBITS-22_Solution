@@ -1,0 +1,11 @@
+U are given 3 images img1.jpeg img2.jpeg img3.jpeg
+By simply analysing the image it can be observed that these 3 images are somewhat related 
+and something in written in img2.jpeg that is not completely visible and readable.
+
+The name suggest the XOR "Exclusive OR" operation may be performed on the some images 
+to obtain image img2.jpeg
+So for doing the reverse we would take XOR of these 3 image using openCV python library
+
+Visit "Solution.py" file for code
+
+FLAG : SPYB!TS{XOR1N6_H3LPS}

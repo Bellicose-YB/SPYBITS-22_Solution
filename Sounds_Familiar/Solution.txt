@@ -1,0 +1,4 @@
+This is sound of Morse code Machine made by Samuel Morse and Alfred.
+Can be easily decoded using this website : "https://morsecode.world/international/decoder/audio-decoder-adaptive.html"
+
+FLAG : SPYB!TS{NICEWORKSAMUELANDALFRED}

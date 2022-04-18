@@ -1,0 +1,20 @@
+first hex to text
+
+
+In this we have to brute force the key as the text after the operation didn't contain SPYB!TS, 
+1 length key combination - 26
+2 length key combination - 26 * 26
+3 length key combination - 26 * 26 * 26
+4 length key combination - 26 * 26 * 26 * 26
+
+Up to 5 length, it's feasible by computer to brute force and the solution key is also of length 3, so we find the answer by this, 
+
+Key in this question:- bit
+
+or 
+
+use this tool with key of length 3 to get flag. https://www.dcode.fr/vigenere-cipher
+ 
+
+
+FLAG : SPYB!TS{VIGENERECIPHERISAWESOME}

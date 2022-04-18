@@ -1,0 +1,3 @@
+We found a voice recording in one of our files but we have no clue what it is about. Are you able to help?
+
+The flag always starts with ```SPYB!TS{*```.

@@ -1,0 +1,3 @@
+We discovered security operatives sending weird pictures to each other.
+
+The flag always starts with ```SPYB!TS{*```.
