@@ -1,0 +1,29 @@
+In this image you are given a corrupted PNG image.
+
+PART 1 :
+Open the PNG image in Hex editor.
+After IEND tag in the last all the contents of PNG are complete. Anything written after that is of no use to PNG.
+So you can hide any data after that and no one will be able to see it.
+If scroll to the last u would see a base64 string after IEND.
+base64 : UGxlYXNlX2ZpbmRfbXlfYnJvdGhlci1MSVJVIU1Me20wMF9GNGdyXw==
+on decoding you would get: 
+Please_find_my_brother-LIRU!ML{m00_F4gr_
+
+So , "LIRU!ML{m00_F4gr_" it is encrypted using Caesar cipher.
+🠞19 (🠜7)	"SPYB!TS{t00_M4ny_" this is first part of our flag.
+    First part of flag is : SPYB!TS{t00_M4ny_
+
+PART 2 : 
+You have to correct all the PNG chunks in Hex editor, you can learn about them from here : 
+http://www.libpng.org/pub/png/spec/1.2/PNG-Chunks.html
+
+after correcting all the chunks you will have error free PNG image.
+
+the image have extension of URL
+after extending the CTF URL with the text in image you would have a hex string
+convert it to text using any decoder
+This is the 2nd part of the flag combine it with 1st part to get the final flag
+
+    Second Part of flag is : junk_cHuNk}
+
+FLAG : SPYB!TS{t00_M4ny_junk_cHuNk}

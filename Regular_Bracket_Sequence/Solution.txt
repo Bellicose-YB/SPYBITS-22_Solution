@@ -1,0 +1,7 @@
+The given file is written in JSFUCK.
+JSFuck is an esoteric subset of JavaScript, where code is written using only six characters: [ , ] , ( , ) , ! , and +.
+
+JSFUCK decoder : https://enkhee-osiris.github.io/Decoder-JSFuck/
+
+
+FLAG : SPYB!TS{5uch_j4v4_5crip7_much_w0w}
