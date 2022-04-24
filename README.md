@@ -12,3 +12,6 @@ Editorial added till now:
 * Simpsons_Dustbin
 * Sounds_Familiar
 * CorRupTed
+* Brothers
+* Regular Bracket Sequence
+* Do This My Friend
