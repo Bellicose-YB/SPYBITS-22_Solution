@@ -1,0 +1,13 @@
+In intresting tree, 
+1. Given file is a .class file which is a compiled file of .java file, so from online decompilers, firstly we get .java file
+
+2. After open it in editor, we can see a code of binary tree, (https://www.geeksforgeeks.org/binary-tree-data-structure/) and it's preorder
+
+3. After identify it, our answer is swapping of index according to preorder index value of a random array.
+
+4. For getting preorder of given array there are two ways,
+i) identify the code and do the backtrack of given relation.
+
+ii) Just print the value in between the code.
+
+5. After getting preorder, we just have to swap index values with preorder index values, then we get the answer.
