@@ -16,3 +16,4 @@ Editorial added till now:
 * Regular Bracket Sequence
 * Do This My Friend
 * Intresting tree
+* QWERTY
