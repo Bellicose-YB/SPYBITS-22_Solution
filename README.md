@@ -15,3 +15,4 @@ Editorial added till now:
 * Brothers
 * Regular Bracket Sequence
 * Do This My Friend
+* Intresting tree
