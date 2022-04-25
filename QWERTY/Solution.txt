@@ -1,0 +1,15 @@
+Straight forward playfair cipher challenge.
+
+KEY is given in PNG image: 
+
+Q W E R T
+Y U I O P
+A S D F G
+H K L Z X
+C V B N M
+
+ciphertext = GUIC!WG{IX4OA41W_1F_B00H_M1YLQPPPP}
+
+Decoder : http://rumkin.com/tools/cipher/playfair.php
+
+FLAG : SPYB!TS{PL4YF41R_1S_C00L_C1PHERRRR}

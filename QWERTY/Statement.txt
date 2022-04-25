@@ -1,0 +1,5 @@
+Not all ancient ciphers were so bad ...
+
+Guic!wg{Ix4Oa41W_1F_B00h_m1YlqPpPP}
+
+The flag always starts with ```SPYB!TS{*```.
